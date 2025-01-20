@@ -32,6 +32,8 @@ O código carrega automaticamente o modelo YOLOv5 pré-treinado (yolov5s) e perm
 
 Após o upload da imagem, o código realiza a detecção de objetos e exibe a imagem com as caixas delimitadoras e os rótulos dos objetos detectados.
 
+![Exemplo de Saída do Programa](https://github.com/ProfMPPDias/trainingdarknetcolabyolo/blob/main/result.png)
+
 ## Dependências
 Este projeto usa as seguintes dependências:
 
